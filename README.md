@@ -15,6 +15,6 @@ challenge.py is in charge to write data to local disk and then to a postgresql r
 query.py is in charge to query data from remote database, joining useful information and writing to local disk.
 
 ## contact me
-[email](email:lucas@queromutah.com.br)
+[email](mailto:lucas@queromutah.com.br)
 
 [whatsapp](https://wa.me/554891915774)
