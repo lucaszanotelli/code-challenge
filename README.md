@@ -16,4 +16,5 @@ query.py is in charge to query data from remote database, joining useful informa
 
 ## contact me
 [email](email:lucas@queromutah.com.br)
+
 [whatsapp](https://wa.me/554891915774)
